@@ -1,0 +1,59 @@
+html {
+    background: black;
+}
+
+
+
+
+/* Battlefiled 1 area sector */
+
+
+
+.BF1-section {
+background-image: url(/assents/img/bf1_backround.jpg);
+background-size: cover;
+background-position: center ;
+
+}
+.youtube-video-bf1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+    padding: 1.5rem;
+}
+
+.ps4logo{
+    height: 15px;
+}
+
+.bf1-p{
+   background: red;
+    color: #fff;
+    font-size: 1.8rem;
+    text-transform: uppercase;
+    text-align: center;
+    
+}
+.bf1-h1 {
+    color: #fff;
+}
+
+
+.bf1-h1 {
+    color: #fff;
+    text-align: center;
+    font-size: 4rem;
+}
+
+
+/* Battlefiled 2042 area sector */
+.BF2042-section {
+        background-image: url(/assents/img/bf242_backround2.jpg);
+    background-size: cover;    
+}
+
+.bf2042-h2{
+    color: #fff;
+    text-align: center;
+    font-size: 4rem;
+}
