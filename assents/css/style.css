@@ -10,7 +10,7 @@ html {
 
 
 .BF1-section {
-background-image: url(.../.../assents/img/bf1_backround.jpg);
+background-image: url(assents/img/bf1_backround.jpg);
 background-size: cover;
 background-position: center ;
 
@@ -48,7 +48,7 @@ background-position: center ;
 
 /* Battlefiled 2042 area sector */
 .BF2042-section {
-        background-image: url(.../.../assents/img/bf242_backround2.jpg);
+        background-image: url(assents/img/bf242_backround2.jpg);
     background-size: cover;    
 }
 
